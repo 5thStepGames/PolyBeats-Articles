@@ -1,6 +1,6 @@
 {
-  "NoticeType": "Game",
-  "MenuHeadline": "This is a normal notice.",
+  "NoticeType": "Header",
+  "MenuHeadline": "Welcome To Poly Beats: Playtest Proxima 2",
   "ActualHeadline": "Playtest Proxima 2 Releases!",
   "CoverArtURL": "https://raw.githubusercontent.com/5thStepGames/PolyBeats-Articles/refs/heads/main/Article%20Assets/GameHeader.png",
   "ArticleContents": "Welcome to Playtest Proxima 2! This marks another step closer toward bigger things for Poly Beats. 
