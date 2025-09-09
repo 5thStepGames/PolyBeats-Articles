@@ -3,7 +3,22 @@
   "MenuHeadline": "About Playtest Eclipse.",
   "ActualHeadline": "About Our Next Update: Playtest Eclipse",
   "CoverArtURL": "https://raw.githubusercontent.com/5thStepGames/PolyBeats-Articles/refs/heads/main/Article%20Assets/AboutPlaytestEclipse.png",
-  "ArticleContents": "writing",
+  "ArticleContents": "Heya players!
+
+It's been quite a while since our last Playtest - and for very good reason.
+This time, we're planning on breaking our usual January-August turnover for content updates - because Eclipse is about to change Poly Beats as you know it.
+
+All new gamemodes will make it's way with the next update, alongside a couple surprises that'll make the experience a lot more fun <3
+
+We also have more little things coming that we've had talks about for a little while - like the Music Player and Navigation Bar we're adding, just to make everything a little less cluttered and more organized.
+
+And also the bigger but more unknown things - such as having FULL control over the data you share with us in the game's settings, and better note latency adjustments will also be around to keep you all comfy.
+
+We're also changing how things work in the background - squashing a trillion and one bugs with this update, alongside fixing security issues with our API.
+
+Game's also supposed to run a bit faster with this one, basically, you get the idea. This update's gonna be a million times better. And hopefully is gonna signifying the homestretch of Poly Beats' playtesting stage. 
+
+Onward and upward! See y'all soon.",
   "UploadDate": "2025-09-09 11:51:00",
   "Author": "kiara"
 }
