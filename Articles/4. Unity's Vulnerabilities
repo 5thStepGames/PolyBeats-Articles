@@ -2,7 +2,7 @@
   "NoticeType": "Game",
   "MenuHeadline": "PLEASE Update To Proxima 2.0.4.",
   "ActualHeadline": "A security vulnerability's been discovered in all versions of Unity.",
-  "CoverArtURL": "https://raw.githubusercontent.com/5thStepGames/PolyBeats-Articles/refs/heads/main/Article%20Assets/AboutPlaytestEclipse.png",
+  "CoverArtURL": "https://raw.githubusercontent.com/5thStepGames/PolyBeats-Articles/refs/heads/main/Article%20Assets/UpdateClient.png",
   "ArticleContents": "Hi players!
   
   Nothing to be alarmed about, but this morning all Unity developers world-wide got confirmation that there's been a security vulnerability dating back as far as 2017 - which needed to be patched or else people could run code through your copies of Poly Beats remotely.
