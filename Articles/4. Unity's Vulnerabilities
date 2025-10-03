@@ -6,7 +6,7 @@
   "ArticleContents": "Hi players!
   
   Nothing to be alarmed about, but this morning all Unity developers world-wide got confirmation that there's been a security vulnerability dating back as far as 2017 - which needed to be patched or else people could run code through your copies of Poly Beats remotely.
-  Obviously, we took action as this stuff is stupid and y'all shouldn't have to deal with the fear of your games being malicious.
+  Obviously, we took action as this stuff is stupid and y'all shouldn't have to deal with the fear of your games being malicious - we also take security EXTREMELY seriously when it comes to our playerbase.
   
   We're not applying the patch retroactively since that makes no sense, so updating to the latest version of Proxima will get rid of this vulnerability on Windows - however Unity haven't provided a patch for Linux as it's a lot less likely to occur (and to be fair, y'all already have lots to worry about on Linux), so be wary.
   
