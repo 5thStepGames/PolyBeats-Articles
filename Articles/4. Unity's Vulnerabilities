@@ -1,5 +1,5 @@
 {
-  "NoticeType": "Game",
+  "NoticeType": "Header",
   "MenuHeadline": "PLEASE Update To Proxima 2.0.4.",
   "ActualHeadline": "A security vulnerability's been discovered in all versions of Unity.",
   "CoverArtURL": "https://raw.githubusercontent.com/5thStepGames/PolyBeats-Articles/refs/heads/main/Article%20Assets/UpdateClient.png",
