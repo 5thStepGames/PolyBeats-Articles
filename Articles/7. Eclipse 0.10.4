@@ -1,0 +1,71 @@
+{
+  "NoticeType": "Header",
+  "MenuHeadline": "Eclipse - v0.10.4: Easier Maps, Layout Respect",
+  "ActualHeadline": "Eclipse v0.10.4 Notes",
+  "CoverArtURL": "https://raw.githubusercontent.com/5thStepGames/PolyBeats-Articles/refs/heads/main/Article%20Assets/EclipseHotfix4.png",
+  "ArticleContents": "🔧 Poly Beats: Eclipse 0.10.4
+Highly requested update.
+
+CHANGES
+
+Visuals
+We feel we broke a little bit of our own visual design with the decorated maps we've pushed out recently, so we'll be putting small changes in place to make them feel better, alongside tweaking some in-game visuals. With this, we're also changing a few animations to improve player feel.
+
+- Slightly tuned the color of the hitbox on all base-game levels to be less of an eyesore.
+- Changed the hitbox animation to feel more impactful when you tap a key down.
+- Changed the note press animation to be simpler, so it's easier to parse.
+
+Decorations
+Alongside this, we noticed people failed ANNIHILATION about thirty seconds in. Sorry about that! And I think that's due to the section where tracks split up, so we removed that, and also changed a few things to accommodate your track layout :)
+
+- We changed a section of ANNIHILATION that split up tracks.
+- Fixed some timing issues within ANNIHILATION and specifically the pentagon enemy.
+- Maps with decorations, that don't actually change the position of tracks with a manually placed keyframe, will not override your configuration.
+- Made a few changes to the Tutorial to make the white Hexagon not seem out of place.
+- Fixed various visual bugs with the Tutorial, the biggest pertaining to the instructions panel moving erratically across frames.
+
+Gameplay
+With health, we saw that it can be really hard for players to climb back up after missing a few notes, so we're balancing health too.
+
+- Missed Note Health Loss: 6 >> 5
+- Healthbar animation lags less and feels much more responsive now.
+
+Charting
+We read your feedback and determined the difficulty of some maps, especially the difficulty curves, can be confusing and not consistent throughout the game. Therefore - here are some major map changes for you.
+
+- ANNIHILATION [Easy] has been moved to [Expert] and now has a new [Easy] difficulty chart.
+- ATYCHIPHOBIA [Easy] has been nerfed.
+- KAWII [Easy, Expert] have been nerfed.
+- PRIMAL RAGE [Easy, Expert] has been nerfed.
+- GALATIC WARFARE now has a new [Easy] difficulty chart, and [Expert] was nerfed. Don't talk about the difficulty curve of GALACTIC WARFARE. Everything's fine.
+
+Stream! Decoration Editor
+- Maps made using Stream! will ignore track positioning if they aren't animated with keyframes.
+- The Editor now supports negative rotation, idk why it took this long.
+- The Editor now uses the same time system we do in-game. There are miniscule changes of possibly milliseconds, but we found it was worth porting over.
+
+Offset Fixer
+- You now have a toggle to autoplay the Note Sync Offset or to play it yourself, to see how you feel about it.
+- You now get accuracy ratings in the Note Sync Offset setting.
+
+Optimization
+- Moved image loading in the menu to a seperate thread so that stuttering is less common when scrolling songs.
+
+BUG FIXES
+- Fixed a bug in the Stream! Decoration Editor where Empty objects would misbehave and cause freezes in the preview.
+- Fixed a bug where the health-bar didn't show anything behind it whilst it was depleting.
+- The 'Relativity' setting inside the Stream! Editor actually works now. You can move Tracks in respect to other players' track configurations.
+- Fixed a bug in the Stream! Editor where playtesting didn't take you (time-wise) to where you actually are in the level.
+- Fixed visual issues with animations pertaining to song selection in the menu - they should feel more responsive to animation now.
+- Amended a loading text that had grammar issues.
+- Tweaked the arrow key song selector so that you can start using your arrow keys even if you haven't hovered over a song yet.
+- Fixed a bug where if the song select lags, maps that are highlighted stay highlighted unless you hover over them again.
+- Fixed an issue with lag when selecting a song in the menu.
+- Fixed various issues with using "Invert Note Scrolling" setting in the OffsetFixer.
+
+It should auto-update once you exit either the game, or Steam (FULLY).
+
+GOOD PAN",
+  "UploadDate": "2026-08-02 22:17:00",
+  "Author": "kiara"
+}
